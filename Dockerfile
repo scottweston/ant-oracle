@@ -1,4 +1,4 @@
-FROM scottweston/oracle-java:6
+FROM scottweston/java-oracle:6
 MAINTAINER Scott Weston <scott@hronboard.me>
 
 ENV ANT_VERSION 1.9.5
